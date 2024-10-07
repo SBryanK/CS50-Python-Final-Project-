@@ -1,3 +1,5 @@
+#CS50 Pyhton
+
 Hello folks, I just finished my Intro to Programming course from Harvard University CS50 course. This is my final project; a restaurant billing system algorithm that can automatically display the total amount of order you choose. 
 
 In the practice, the code is  really easy to implement and understand.
